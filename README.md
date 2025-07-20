@@ -13,4 +13,14 @@ This is a simple Rock, Paper, Scissors game built in Python. The player chooses 
    ```bash
    python rock_paper_scissors.py
 
+# sample output
+Choose rock, paper, or scissor: scissor
+Computer Choice is: paper
+You win.
+
+# Technologies Used
+--python 3.x
+--'random' module
+
+
 

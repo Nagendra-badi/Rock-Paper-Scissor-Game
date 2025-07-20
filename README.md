@@ -14,13 +14,13 @@ This is a simple Rock, Paper, Scissors game built in Python. The player chooses 
    python rock_paper_scissors.py
 
 # sample output
-Choose rock, paper, or scissor: scissor
-Computer Choice is: paper
-You win.
+- Choose rock, paper, or scissor: scissor
+- Computer Choice is: paper
+- You win.
 
 # Technologies Used
---python 3.x
---'random' module
+- python 3.13.5
+- 'random' module
 
 
 
